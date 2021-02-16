@@ -1,1 +1,1 @@
-# django-api-3
+# Django api course 3
