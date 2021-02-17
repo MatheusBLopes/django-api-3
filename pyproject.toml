@@ -11,6 +11,7 @@ djangorestframework = "^3.12.2"
 Faker = "^6.1.1"
 validate-docbr = "^1.8.2"
 python-dotenv = "^0.15.0"
+django-cors-headers = "^3.7.0"
 
 [tool.poetry.dev-dependencies]
 
